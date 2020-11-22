@@ -1,0 +1,8 @@
+//Reto 1: Colecciones, Documentos y Proyecciones
+//Bryand Javier Garcia Sigales
+//Título, elenco y año de cada película.
+{
+  "title": 1,
+  "cast": 1,
+  "year": 1
+}

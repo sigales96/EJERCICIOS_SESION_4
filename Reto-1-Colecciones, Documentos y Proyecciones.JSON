@@ -1,0 +1,10 @@
+//Reto 1: Colecciones, Documentos y Proyecciones
+//Bryand Javier Garcia Sigales
+
+//Fecha, nombre y texto de cada comentario.
+{
+  date: 1,
+  name: 1,
+  text: 1
+}
+

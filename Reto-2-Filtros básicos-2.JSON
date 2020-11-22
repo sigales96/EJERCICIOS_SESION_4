@@ -1,0 +1,9 @@
+//Reto 2: Colecciones, Documentos y Proyecciones
+//Bryand Javier Garcia Sigales
+//¿Qué comentarios han hecho Greg Powell o Mercedes Tyler?
+{
+  "$or": [
+    { "name": "Greg Powell" },
+    { "name": "Mercedes Tyler" }
+  ]
+}
